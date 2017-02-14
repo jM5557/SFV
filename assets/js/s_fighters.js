@@ -306,5 +306,19 @@ var fighter_obj_arr = {
 		mobilitiy: 60,
 		technique: 40,
 		range: 80
+	},
+	{
+		name: "Akuma", 
+		bgImg: "akuma.jpg",
+		occupation: "UNKNOWN",
+		skills: "UNKNOWN",
+		fightStyle: "Satsui No Hado. Ansatsuken",
+		height: "5' 10\"(178.00cm)",
+		weight: "199 LBS(90.00KG)",
+		power: 100,
+		health: 60,
+		mobilitiy: 80,
+		technique: 100,
+		range: 60
 	}]
 };
